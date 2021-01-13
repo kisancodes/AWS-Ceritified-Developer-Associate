@@ -21,3 +21,6 @@ The AWS Certified Developer - Associate examination is intended for individuals 
 - Ability to author, maintain, and debug code modules on AWS
 - Proficiency writing code for serverless applications
 - Understanding of the use of containers in the development process
+
+### How to use this guide
+Each folder is based on AWS services and contains own README file. 
