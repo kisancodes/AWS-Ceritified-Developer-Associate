@@ -1,8 +1,8 @@
 
-<center> # AWS Ceritified Developer Associate
-![AWS Developer Associate](https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified_Developer_Associate_512x512.6d5f0ad35de66966c96f8e408e4fd919c1a2d753.png)
-
-</center>
+<p align="center">
+  <h1>AWS Ceritified Developer Associate</h1>
+<img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified_Developer_Associate_512x512.6d5f0ad35de66966c96f8e408e4fd919c1a2d753.png">
+</p>
 
 ## Description
 The AWS Certified Developer - Associate examination is intended for individuals who perform a development role and have one or more years of hands-on experience developing and maintaining an AWS-based application.
