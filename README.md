@@ -29,4 +29,8 @@ The AWS Certified Developer - Associate examination is intended for individuals 
 
 ## Content Outline
 
+<<<<<<< HEAD
 ![AWS Certified Developer Associate Exam content](./images/content-outline.png)
+=======
+![AWS Certified Developer Associate Exam content Outline](/images/content-outline.png)
+>>>>>>> 422ec301cb2c9b1062c32661a29c928e1398b311
