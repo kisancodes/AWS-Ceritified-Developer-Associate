@@ -4,6 +4,8 @@
    <img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified_Developer_Associate_512x512.6d5f0ad35de66966c96f8e408e4fd919c1a2d753.png">
 </p>
 </div>
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
 ## Description
 
@@ -37,8 +39,5 @@ role and have one or more years of hands-on experience developing and maintainin
 ![AWS Certified Developer Associate Exam content](/images/content-outline.png)
 
 # For Contribution to the Project
-
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
 The idea of this project is to collect quality resources for AWS Certified Developer Associate (DVA-CO1) Exam and make exam more fun. Any high quality contribution is appriciated. All the resources are free to use and distribute.
