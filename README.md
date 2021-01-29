@@ -41,4 +41,4 @@ role and have one or more years of hands-on experience developing and maintainin
 
 # For Contribution to the Project
 
-The idea of this project is to collect quality resources for AWS Certified Developer Associate (DVA-CO1) Exam and make exam more fun. Any high quality contribution is appriciated. All the resources are free to use and distribute.
+The idea of this project is to collect quality resources for AWS Certified Developer Associate (DVA-CO1) Exam and make exam more fun. Any high quality contribution is appriciated. All the resources are free to use and distribute under MIT License.
