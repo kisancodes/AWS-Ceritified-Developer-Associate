@@ -8,7 +8,7 @@
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/kisancodes/AWS-Ceritified-Developer-Associate/blob/main/LICENSE)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
-## Description
+### Description
 
 The AWS Certified Developer - Associate examination is intended for individuals who perform a development
 role and have one or more years of hands-on experience developing and maintaining an AWS-based application.
@@ -39,6 +39,6 @@ role and have one or more years of hands-on experience developing and maintainin
 
 ![AWS Certified Developer Associate Exam content](/images/content-outline.png)
 
-# For Contribution to the Project
+## For Contribution to the Project
 
 The idea of this project is to collect quality resources for AWS Certified Developer Associate (DVA-CO1) Exam and make exam more fun. Any high quality contribution is appriciated. All the resources are free to use and distribute under MIT License.
